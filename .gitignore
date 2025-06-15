@@ -1,0 +1,13 @@
+graphs
+BLIP
+bert-base-uncased
+blip-image-captioning-base
+custom
+custom-one-frame
+custom-kinetics
+IndoorActionDataset-video
+kinetics-dataset/k400
+runs
+
+model_base_capfilt_large.pth
+model_base_retrieval_coco.pth
