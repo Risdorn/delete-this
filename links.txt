@@ -1,0 +1,2 @@
+sujayr91/Knowledge‑Distillation‑for‑Image‑Captioning
+https://github.com/jfan1256/distill-blip/tree/main/export
